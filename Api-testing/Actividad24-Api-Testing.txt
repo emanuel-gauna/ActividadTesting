@@ -1,0 +1,8 @@
+Hablemos de POSTMAN!
+
+Se debe entregar un archivo PDF que contendrá:
+
+Screenshot JSON validado.
+Screenshot colección y request creadas.
+ Screenshot respuestas de cada request en POSTMAN.
+ Screenshot ejecución de la colección completa con los tests 
